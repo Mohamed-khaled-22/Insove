@@ -1,0 +1,24 @@
+
+/* componant */
+.btn {
+  background-color: #1cbccf;
+  color: #fff;
+  border-radius: 500px;
+  padding: 16px 40px;
+  transition: 0.2s;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.btn:hover {
+  background-color: #4c5354;
+}
+
+nav.close {
+  translate: -208px;
+}
+
+ .bolets .active {
+  background-color:#1cbccf;
+ }
+
