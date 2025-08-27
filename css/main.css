@@ -1,4 +1,3 @@
-
 /* componant */
 .btn {
   background-color: #1cbccf;
@@ -14,11 +13,6 @@
   background-color: #4c5354;
 }
 
-nav.close {
-  translate: -208px;
+.bolets .active {
+  background-color: #1cbccf;
 }
-
- .bolets .active {
-  background-color:#1cbccf;
- }
-

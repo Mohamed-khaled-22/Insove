@@ -6,7 +6,8 @@ const navRghtIcn = document.querySelector(".nav-mobile .switch-key .right-icon")
 const navLftIcn = document.querySelector(".nav-mobile .switch-key .left-icon");
 
 navBtn.addEventListener(("click"), () => {
-    nav.classList.toggle("close");
+    console.log(nav)
+    nav.classList.toggle("-translate-x-[208px]");
     navRghtIcn.classList.toggle("hidden");
     navLftIcn.classList.toggle("hidden");
 })
